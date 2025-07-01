@@ -44,15 +44,15 @@ A Contact Book application for managing personal contacts:
 ## 💻 How to Run
 
 ```bash
-python file_name.py
+python <file_name>.py
 ```
 
 
 ## 🛠️ Requirements
 
 ```bash
--Python 3.x
--No external libraries required (standard library only)
+- Python 3.x
+- No external libraries required (standard library only)
 ```
 
 ## 🙌 Acknowledgments
